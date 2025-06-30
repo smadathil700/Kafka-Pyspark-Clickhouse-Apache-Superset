@@ -10,6 +10,8 @@ This project performs a real-time sentiment analysis of Reddit comments mentioni
 - **Storage** of processed data in ClickHouse
 - **Live data visualization** in Grafana
 
+![Alt text](pics/architecture.png)
+
 ## 🧰 Tech Stack
 
 - **Reddit API** (praw)
