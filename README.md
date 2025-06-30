@@ -64,9 +64,7 @@ _analytics-net is name of network_
 
 ## 📊 Dashboard Example (Grafana)
 
-- **Real-time trend** of sentiment scores
-- **Volume** of positive vs negative mentions
-- **Time-series analysis** of comment sentiment
+![Alt text](pics/dashboard.png)
 
 ## 📁 Output Structure
 
@@ -75,7 +73,7 @@ _analytics-net is name of network_
 
 ### ClickHouse Table
 - **Table**: `reddit_cleaned`
-- **Fields include**: comment_id, body, sentiment, timestamp, etc.
+- **Fields include**: id, body, score, date, etc.
 
 ## 🚀 Getting Started
 
