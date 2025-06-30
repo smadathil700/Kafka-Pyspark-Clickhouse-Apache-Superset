@@ -49,7 +49,7 @@ docker run -d -p 3000:3000 grafana/grafana
 ```bash
 docker network connect analytics-net grafana
 ```
-_analytics-net is name of network_
+_analytics-net is name of the network in above example_
 
 ## 🔄 Data Pipeline Workflow
 
