@@ -118,3 +118,7 @@ Ensure your `docker-compose.yml` includes all required services:
 - Create scalable data pipeline architecture
 - Provide interactive data visualization
 
+## 📞 Contact
+
+For questions or collaboration opportunities, please reach out via msariga7@gmail.com.
+
